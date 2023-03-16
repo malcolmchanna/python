@@ -1,0 +1,14 @@
+Project: Analyzing Sales Data with Pandas
+
+In this project, you will work with a sales dataset that contains information about sales transactions for a company. You will use Pandas to load the dataset, clean and transform the data, and perform basic analysis to gain insights into the sales performance of the company.
+
+Dataset:
+You can find the sample dataset from this link: https://raw.githubusercontent.com/datagy/mediumdata/master/sales_data_sample.csv
+
+Tasks:
+
+Load the dataset using Pandas read_csv function.
+Clean the data by removing any unnecessary columns or rows, and renaming columns if necessary.
+Perform basic analysis by calculating total sales, average sales per order, and number of orders per customer.
+Visualize the data by creating charts to show the sales performance over time or by product category.
+Export the cleaned data as a new CSV file using Pandas to_csv function.
